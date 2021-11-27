@@ -1,4 +1,4 @@
-# PAN-OCR
+# PAN-OCR 
 
 The purpose of this project is to efficiently extract the text contained in a PAN Card image and store it in JSON. Herein, we are using the following libraries. The current version 2.0 has been run effectively in October 2018. Any recommendations are welcome. We also need to understand the limitations of by tesseract as it won't run on noisy images with salt & pepper grains and/or poor image quality, i.e. anything below 300 DPI.
 
