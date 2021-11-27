@@ -17,7 +17,7 @@ The purpose of this project is to efficiently extract the text contained in a PA
       }
  
 # USAGE:
-   please visit this link ,You got good practical explanation on this project .
+   please visit this link https://medium.com/@rr_42830 ,You got good practical explanation on this project .
    
  
  
